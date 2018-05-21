@@ -3,12 +3,13 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/jfw_1.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/jfw_1.jpg" style="width:30%; border:10px solid; margin-right: 20px" align="left">
 
-I graduated from Southern Methodist University with a MS in Computer Engineering in 2011. I returned to the Atlanta area and graduated from the Gwinnett County Police Academy. I worked at Business Process Management Solutions(BPMS) for 8 months before they were acquired by Ernst and Young(EY). I then worked at EY for 2 years. In 2018 I began the Master of Analytics program at the Georgia Institute of Technology, I expect to graduate in the spring of 2019.
+I am a native Atlantan and a graduate of the Westminster Schools.  I attended Southern Methodist University in Texas, graduating with a BS in Computer Engineering in 2011. I returned to the Atlanta area, was accepted into the Gwinnett County Police Academy. I graduated to the force in 2013.  I learned that police field work was not my calling.  I sought a position with Business Process Management Solutions (BPMS), was hired in 2013, and worked there for 8 months. BPMS was acquired by Ernst and Young (EY) and I was retained by EY, advancing to analyst, and stayed with them for the next 2 years. In 2017, I began the Master of Analytics program at the Georgia Institute of Technology.  I anticipate graduating with the degree in spring of 2019.
 
-I became interested in analytics through sports and that lead me to see how it is used everywhere. The ways data is used to inform people and companies is fascinating. The amount of data being generated is enormous and people need to understand when their personal data is being used and what it is being used for. It is also important to handle this data carefully. 
+I became interested in analytics through my love of sports.  In sports a greater and greater wealth of data is used to assess teams, individual players, coaches and their possible trajectories.  I would like to work in an organization in which I can examine relevant data, help make sense of it, and help the organization to generate useful insights into the problems that need to be addressed.
 
-I got my first fountain pen while I was attending SMU. Since then it has been a journey through the world of stationary. There is a pen, ink, and paper combination for anyone and I have enjoyed trying the different combinations to find mine.   
+Interests and hobbies of mine include driving for UBER,  the Atlanta Hawks, Falcons, Braves, and United and journaling using a fountain pen. The physical art of writing has dwindled.  I have enjoyed learning about different styles of pen and paper and I practice the craft of handwriting daily.  I have found that letter writing to friends and family is a significant means of communication. 
+   
   
 My resume is available [here](files/J_Forrest_Willoughby_Resume.pdf).
