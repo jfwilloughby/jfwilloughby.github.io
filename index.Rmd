@@ -1,0 +1,12 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/jfw_1.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+I graduated from Southern Methodist University with a MS in Computer Engineering in 2011. In 2018 I began the Master Of Analytics program at the Georgia Institute of Technology, I expect to graduate in the spring of 2019.
+
+I am a huge fan of Atlanta sports. I am an avid basketball fan. This includes analysis of current team tactics, the identification of prospects, and analyzing how to maximize the production of present players.
+
+My resume is available [here](files/J_Forrest_Willoughby_Resume.pdf).
